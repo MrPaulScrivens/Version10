@@ -1,0 +1,1 @@
+Everyone knows what they're doing, but they don't know what's going to come of it.

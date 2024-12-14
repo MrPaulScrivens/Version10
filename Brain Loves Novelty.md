@@ -1,0 +1,1 @@
+The brain loves novelty, which causes us to seek the unknown due to the reward that might be on the other side. But this only works if no danger appears next to the opportunity.

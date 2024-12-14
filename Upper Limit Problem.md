@@ -1,0 +1,1 @@
+We have a subconscious limit to how much love, success, and creativity we are willing to receive. Once we fill that up we will sabotage ourselves to lower the thermostat until it is time to fill it up again.

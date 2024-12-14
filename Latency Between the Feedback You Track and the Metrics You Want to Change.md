@@ -1,0 +1,1 @@
+You want the lowest amount of latency possible so that you can make quick and more effective decisions.

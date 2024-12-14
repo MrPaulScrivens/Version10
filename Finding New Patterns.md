@@ -1,0 +1,1 @@
+It's more beneficial to seek new patterns as they could be more efficient. To stick with the only things you know means you are also limiting how far you can go.

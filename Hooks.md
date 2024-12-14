@@ -1,0 +1,8 @@
+- call out the target audience
+- Call out the desired outcome
+- Call out the pain point
+- use numbers
+- ask interesting questions
+- start in the middle of the story
+- challenge a common belief
+- share a shocking fact

@@ -1,0 +1,1 @@
+A brand that serves a singular purpose to help people with something they need.

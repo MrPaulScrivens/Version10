@@ -1,0 +1,1 @@
+Your body can go all year round doing physical things but your mind is a different beast. It is seasonal. It needs to recharge. It's connected with nature and the seasons that move along with it.

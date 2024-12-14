@@ -1,0 +1,1 @@
+We develop certain connections based on the environments that we are in. The longer we are in those environments, the stronger those connections become because they are used more frequently than others.

@@ -1,0 +1,1 @@
+What categories/topics do you want to cover? Combine this with a [[Content Style]] and you have the [[Content Matrix]] 

@@ -1,0 +1,3 @@
+> "Finding yourself" is not really how it works. You aren't a ten-dollar bill in last winter's coat pocket. You are also not lost. Your true self is right there, buried under cultural conditioning, other people's opinions, and inaccurate conclusions you drew as a kid that became your beliefs about who you are. "Finding Yourself" is actually returning to yourself. An unlearning, an excavation, a remembering who you were before the world got its hands on you."
+> 
+> -- Emily Mcdowell
