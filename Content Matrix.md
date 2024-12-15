@@ -1,1 +1,1 @@
-Combine a [[Content Theme]] with a [[Content Style]]
+Combine a [[Content Theme]] with a [[git/Content Structures]]
