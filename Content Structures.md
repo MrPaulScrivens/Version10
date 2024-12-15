@@ -25,8 +25,16 @@
 - **The System Autopsy**: Breaking down why seemingly good processes break
 - **The Model Remix**: Taking existing frameworks and adapting them for new contexts
 - **The Rule Reversal**: What happens when you do the opposite of best practices
-- The Pivot Point: When everything changed because of one moment/realization
-- The Hidden Cost: Revealing unexpected downsides of common practices
-- The Counterintuitive Win: Success that came from doing the opposite of best practices
-- The Failed Success: When achieving goals revealed deeper problems
+- **The Pivot Point**: When everything changed because of one moment/realization
+- **The Hidden Cost**: Revealing unexpected downsides of common practices
+- **The Counterintuitive Win**: Success that came from doing the opposite of best practices
+- **The Failed Success**: When achieving goals revealed deeper problems
+- **The What If**: Exploring alternative scenarios/approaches
+- **The Why Not**: Challenging assumptions about what's possible
+- **The How Come**: Investigating root causes of common problems
+- **The What Next**: Predicting future trends or developments
+- **The Behind-the-Scenes**: Showing the messy reality behind polished outcomes
+- **The Case Study Flip**: Taking a well-known success story and showing a different angle
+- **The Experiment Results**: Sharing outcomes from testing conventional wisdom
+- **The Reality Check**: Contrasting expectations vs actual experiences
 
