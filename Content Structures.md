@@ -1,9 +1,32 @@
-- Observation: What's something you've observed that you can talk about
-- Actionable: How can people do something, step-by-step?
-- Motivational: Inspire people to take action through a story or anecdote.
-- Analytical: Do a tear down of a company, person, content style, etc
-- Contrarian: Something you feel differently about vs the status quo
-- X vs Y: Compare two situations for an interesting takeaway.
-- Present / Future: How things work today vs how you think in the future?
-- Listicle: A list of things
+- **Observation**: What's something you've observed that you can talk about
+- **Actionable**: How can people do something, step-by-step?
+- **Motivational**: Inspire people to take action through a story or anecdote.
+- **Analytical**: Do a teardown of a company, person, content style, etc
+- **Contrarian**: Something you feel differently about vs the status quo
+- **X vs Y**: Compare two situations for an interesting takeaway.
+- **Present / Future**: How things work today vs how do you think in the future?
+- **Listicle**: A list of things
+- **Story-Driven**: Share a personal or community member's journey to inspire or teach through lived experience.
+- **Deep Dive**: Explore one concept in intricate detail, connecting it to real-world applications.
+- **Challenge**: Introduce a popular methodology or belief, then dismantle or critique it, offering an alternative.
+- **Behind-the-Scenes:** Show your audience how something is made, step-by-step, revealing the work and thought processes involved.
+- **Myth Busting:** Debunk common misconceptions in your niche and explain the real truths.
+- **Blueprints:** Provide a pre-built template or outline that people can adapt for their use.
+- **Case Studies:** Dive into success (or failure) stories of individuals, brands, or projects with actionable lessons.
+- **Mistakes to Avoid:** Outline common pitfalls and how to navigate around them effectively.
+- **Quick Wins:** Deliver a short, actionable tip or strategy that produces immediate results.
+- **What If:** Explore hypothetical scenarios to challenge thinking or inspire innovation.
+- **Trends and Predictions:** Analyze industry trends and where they might lead, helping your audience prepare for the future.
+- **Objection Handling:** Address common doubts or hesitations your audience might have, offering reassuring insights.
+- **Interactive/Challenge Content:** Set up small challenges that encourage your audience to take action and report back.
+- **Q&A/AMA Style:** Answer common or community-submitted questions to foster engagement and trust.
+- **Failure Analysis:** Dissect a failure (personal or otherwise) to highlight lessons learned and growth opportunities.
+- **The Formula Fallacy**: Why popular frameworks fail in certain contexts
+- **The System Autopsy**: Breaking down why seemingly good processes break
+- **The Model Remix**: Taking existing frameworks and adapting them for new contexts
+- **The Rule Reversal**: What happens when you do the opposite of best practices
+- The Pivot Point: When everything changed because of one moment/realization
+- The Hidden Cost: Revealing unexpected downsides of common practices
+- The Counterintuitive Win: Success that came from doing the opposite of best practices
+- The Failed Success: When achieving goals revealed deeper problems
 
