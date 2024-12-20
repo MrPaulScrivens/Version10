@@ -31,7 +31,7 @@ There is a third way, but it often gets in the way of world-building, and that i
 
 ## Difference Between Utility-Focused Brand
 
-There is a trick with utility-focused brands.
+There is a trick with a [[Utility Brand]].
 
 They “cheat”. It's not really cheating but it can feel like cheating.
 
