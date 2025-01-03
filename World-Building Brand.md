@@ -40,3 +40,13 @@ Some will use engagement pods to boost each other up. Others will use their othe
 Like I said it can feel like cheating but it’s not.
 
 ## Customer Problems Are Your Challenges
+
+## Terms
+
+- [[Kindred]]
+- [[Drifters]]
+- [[Realms]]
+- [[Arts]]
+- [[Artifacts]]
+- [[Manifestos]]
+- [[Signals]]
