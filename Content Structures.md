@@ -27,7 +27,7 @@
 - **The Pivot Point**: When everything changed because of one moment/realization
 - **The Hidden Cost**: Revealing unexpected downsides of common practices
 - **The Counterintuitive Win**: Success that came from doing the opposite of best practices
-- **The Failed Success**: When achieving goals revealed deeper problems
+- **The Failed Success**: When achieving goals reveals deeper problems
 - **The What If**: Exploring alternative scenarios/approaches
 - **The Why Not**: Challenging assumptions about what's possible
 - **The How Come**: Investigating root causes of common problems
